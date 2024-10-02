@@ -1,0 +1,1 @@
+Bem-vindo ao repositório de projetos desenvolvidos em Python! Aqui você encontrará uma variedade de projetos, desde scripts simples até aplicações mais complexas. Cada projeto é uma oportunidade para explorar diferentes bibliotecas, técnicas e conceitos de programação.
