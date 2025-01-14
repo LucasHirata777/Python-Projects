@@ -12,3 +12,4 @@ if prestação <= mínimo:
     print('Parabéns o seu empréstimo foi aprovado!')
 else:
     print('Negativo, o empréstimo não foi aprovado. ')
+
