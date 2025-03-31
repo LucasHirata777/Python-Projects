@@ -1,0 +1,17 @@
+print('Gerador de P.A')
+print('-=' * 10)
+Primeiro = int(input('Primeiro termo: '))
+Razão = int(input('Razão de PA: '))
+Termo = Primeiro
+cont = 1
+total = 0
+mais = 10
+while mais != 0:
+        total += mais
+        while cont <= total:
+            print('{} - '.format(Termo), end='')
+            Termo += Razão
+            cont += 1
+        print('PAUSA')
+        mais = int(input('Quantos termos você quer mostrar a mais? '))
+print('Progressão Finalizada.')
